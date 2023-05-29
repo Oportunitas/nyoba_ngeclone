@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-  cout << "waduh bisa ngodeng" << endl;
+  cout << "kekirim lagi" << endl;
 }
