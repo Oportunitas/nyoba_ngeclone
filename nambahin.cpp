@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-  cout << "branchingnya ada i" << endl;
+  cout << "branchingnya keganti" << endl;
 }
