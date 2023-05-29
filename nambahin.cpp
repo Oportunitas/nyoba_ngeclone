@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-  cout << "branchingnya gak keganti" << endl;
+  cout << "coba ganti lagi" << endl;
 }
